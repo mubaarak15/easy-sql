@@ -6,7 +6,7 @@ setup(
     description="A Python package for simplified database interactions with SQLite and MySQL.",
     long_description=open("README.md", "r", encoding="utf-8").read(),  
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/easy-sql",  
+    url="https://github.com/mubaarak15/easy-sql",  
     author="Mubaarak Abdikadir Jamac", 
     author_email="Mubaaraksboy@gmail.com",  
     packages=find_packages(),
