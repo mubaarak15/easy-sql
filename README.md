@@ -8,14 +8,6 @@
     - Prevent SQL injection attacks through parameterized queries.
     - Avoid duplicate entries by checking for them and using unique column constraints.
 
-**## Installation**
-
-Install the package using pip:
-
-```bash
-pip install easy_sql
-```
-
 **## Usage**
 
 ### 1. Import the Package
